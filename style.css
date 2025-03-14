@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    text-align: center;
+}
+
+header {
+    background-color: #d93025;
+    color: white;
+    padding: 10px;
+}
+
+.inbox {
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.email {
+    background-color: white;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px gray;
+}
